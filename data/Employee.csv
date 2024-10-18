@@ -1,0 +1,7 @@
+ID,Name,DateOfBirth,Gender,ID Card,Phone Number,Email,Education Level,Position,Salary
+Nv-0001,Nguyen Van A,22/10/1998,male,4564798744,0984254213,nguyenvana@gmail.com,HighSchool,employee,10000.0
+Nv-0002,Nguyen Van B,12/10/2000,female,15487874545,918654645,nguyenvanb@example.com,Highschool,employ,5000.0
+Nv-0003,Pham Minh Quan,14/2/2004,male,12345699999,915440055,quanhk1402@gmail.com,University,Boss,9999.0
+Nv-0004,Tran Thi C,2/5/1989,female,12346547897,944545454,tranthic@example.com,Highschool,employee,200.0
+Nv-0005,Nguyen Thanh T,12/10/1880,female,12155878655,814454657,nguyenthanht@example.com,University,supervivor,1000.0
+Nv-1235,Tran Binh Vuong,22/10/2004,male,1545695354,0972554605,binhvuongtran@gmail.com,University,Employee,5000.0

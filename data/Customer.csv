@@ -1,0 +1,9 @@
+ID,Name,DateOfBirth,Gender,ID Card,Phone Number,Email,Customer Type,Address
+KH-0001,Nguyen Van A,22/10/1998,male,456479874,0984254213,nguyenvana@gmail.com,Gold,Hanoi
+KH-0002,Nguyen Van B,12/10/2000,female,15487874545,0918654645,nguyenvanb@example.com,Silver,Danang
+KH-0003,Tran Van An,24/02/2004,male,12345699999,0925667658,tranvana@example.com,Diamond,Hochiminh
+KH-0004,Tran Thi C,02/05/1989,female,12346547897,0944545454,tranthic@example.com,Platinum,Haiphong
+KH-0005,Nguyen Thanh T,12/10/1980,female,12155878655,0814454657,nguyenthanht@example.com,Gold,Hanoi
+KH-0006,Tran Binh Vuong,22/10/2004,male,1545695354,0972554605,binhvuongtran@gmail.com,Member,NgheAN
+KH-1001,Pham Minh Quan,14/02/2004,male,012347567,0915440074,quanhk1402@gmail.com,gold,369-Ho Chi Minh
+KH-0008,Ngo Hoang Bach,22/09/2004,male,123456785,0924557608,bachngo@gmail.com,silver,123-Ha Nam
